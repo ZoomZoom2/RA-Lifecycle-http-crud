@@ -1,0 +1,12 @@
+.addNoteBtn {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+}
+
+.removeNoteBtn {
+    position: absolute;
+    top: -15px;
+    right: -15px;
+    background-color: white;
+}
